@@ -1,0 +1,5 @@
+# For
+
+# Flag: picoCTF{gr3p_15_@w3s0m3_58f5c024}
+
+Search for "pico"
